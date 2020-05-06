@@ -1,0 +1,46 @@
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\bin\Debug\InternetServiceProvider.exe.config
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\bin\Debug\InternetServiceProvider.exe
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\bin\Debug\InternetServiceProvider.pdb
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.Properties.Resources.resources
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.csproj.GenerateResource.cache
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.csproj.CoreCompileInputs.cache
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.exe
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.pdb
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.control.ClientList.resources
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.MainForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.ClientForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.control.ConnectList.resources
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.AddClientForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.AddOperatorForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.control.OperatorList.resources
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.OperatorListForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.csprojAssemblyReference.cache
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.ConnectForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.CountClientsByMonthForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\bin\Debug\Newtonsoft.Json.xml
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.csproj.CopyComplete
+C:\Users\felix\OneDrive\Робочий стіл\КУРСОВА ЙОБ ВАШУ МАТЬ\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.ListOperatorsByDay.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.csprojAssemblyReference.cache
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.Properties.Resources.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.AddClientForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.AddOperatorForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.ClientForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.control.ClientList.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.control.ConnectList.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.control.OperatorList.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.CountClientsByMonthForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.ListOperatorsByDay.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.MainForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.OperatorListForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.view.ConnectForm.resources
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.csproj.GenerateResource.cache
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.csproj.CoreCompileInputs.cache
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.exe
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.pdb
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\bin\Debug\InternetServiceProvider.exe.config
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\bin\Debug\InternetServiceProvider.exe
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\bin\Debug\InternetServiceProvider.pdb
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\bin\Debug\Newtonsoft.Json.xml
+C:\Users\felix\OneDrive\Робочий стіл\Курсова\InternetServiceProvider\obj\Debug\InternetServiceProvider.csproj.CopyComplete
